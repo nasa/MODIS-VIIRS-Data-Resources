@@ -1,4 +1,4 @@
-# HLS-Data-Resources  
+# MODIS-VIIRS-Data-Resources  
 
 Welcome! This repository offers guides and tutorials designed to help users access and work with data from the Moderate Resolution Imaging Spectroradiometer (MODIS) and the Visible Infrared Imaging Radiometer Suite (VIIRS). In support of open science, this repository is publicly available and actively maintained. While all Jupyter notebooks and scripts are intended to be fully functional, ongoing updates and improvements may occur. Contributions from all parties are welcome.  
 
