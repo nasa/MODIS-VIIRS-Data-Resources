@@ -11,5 +11,7 @@ _________________________________________________________________________
 >
 > - Added a new notebook on how  to convert MCD19A2 HDF-EOS data to COGs
 >   - `how_to_convert_mcd19A2_to_cogs.ipynb`
-> - initial commit 
 
+## 04-10-2025
+
+> Initial Commit
