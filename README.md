@@ -23,7 +23,7 @@ Clone or download the [MODIS-VIIRS-Data-Resources repository](https://github.com
 
 |Resource|Type|Summary|
 |:---|:---|:---|
-| **[Exploring VIIRS Vegetation Data From the Earthdata Cloud](/python/tutorials/Exploring_VIIRS_Vegetation_Data_From_Earthdata_Cloud.ipynb)** | Jupyter Notebook | Search, access, and work with VIIRS Vegetation Indicies Data|
+| **[Exploring VIIRS Vegetation Data From the Earthdata Cloud](/python/tutorials/Exploring_VIIRS_Vegetation_Data_From_Earthdata_Cloud.ipynb)** | Jupyter Notebook | Search, access, and work with VIIRS Vegetation Indices Data|
 | **[How to Convert MCD19A2 HDF-EOS Data to Cloud Optimized GeoTIFFs (COGs)](/python/how_to_convert_mcd19A2_to_cogs.ipynb)** | Jupyter Notebook | Search, access, and convert MCD19A2 to Optimized GeoTIFFs (COGs)|
 
 ## Citation
